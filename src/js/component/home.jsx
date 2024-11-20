@@ -1,4 +1,4 @@
-import React, { useDeferredValue, useEffect, useState } from "react";
+import React, { useState} from "react";
 import { Counter } from "./Counter";
 
 //include images into your bundle
